@@ -1,1 +1,2 @@
-# dsci522_learning-about-version-control
+# Learning about Version Control
+Author: A.S. Fratzscher
